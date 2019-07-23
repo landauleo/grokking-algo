@@ -1,6 +1,6 @@
 /**
  * User: Anna Nosova
- * Time: 2019-06-30 23:10
+ * Date: 2019-06-30
  */
 public class BinarySearch {
 
