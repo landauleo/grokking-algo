@@ -1,7 +1,6 @@
 import java.util.Arrays;
 
 /**
- * User: Anna Nosova
  * Date: 2019-07-23
  */
 public class SelectionSort {

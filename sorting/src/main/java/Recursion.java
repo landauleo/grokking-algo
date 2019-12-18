@@ -1,5 +1,4 @@
 /**
- * User: Anna Nosova
  * Date: 2019-06-30
  */
 public class Recursion {
