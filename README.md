@@ -1,2 +1,2 @@
 # grokkingAlgo
-While reading Grokking Algorithms by Aditya Bhargava
+Repo for algo practice <3
