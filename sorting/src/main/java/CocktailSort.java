@@ -51,3 +51,10 @@ public class CocktailSort {
     }
 
 }
+
+/*Complexity:
+best:
+O(n)
+worst:
+O(n^2)
+ */

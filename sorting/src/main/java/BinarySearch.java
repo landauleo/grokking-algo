@@ -27,4 +27,12 @@ public class BinarySearch {
 
         System.out.println(startBinarySearch(arr, 9));
     }
+
 }
+
+/*Complexity:
+best:
+O(1)
+worst:
+O(n) = 1 + T(n/2)
+ */

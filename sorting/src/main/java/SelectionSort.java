@@ -28,3 +28,10 @@ public class SelectionSort {
         return numbers;
     }
 }
+
+/*Complexity:
+best:
+O(1)
+worst:
+O(n^2)
+ */

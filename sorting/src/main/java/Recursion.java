@@ -14,3 +14,10 @@ public class Recursion {
         return n * getFactorial(n-1);
     }
 }
+
+/*Complexity:
+best:
+O(1)
+worst:
+O(n) = 1 + O(n-1), when n > 1
+ */
